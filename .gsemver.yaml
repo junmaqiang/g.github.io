@@ -1,0 +1,10 @@
+majorPattern: "^BREAKING CHANGE:.*$"
+minorPattern: "^(feat|refactor):.*$"
+patchPattern: "^(fix|perf|style|ci|docs|test|refactor|chore):.*$"
+bumpStrategies:
+  - branchesPattern: "main"
+    strategy: "AUTO"
+    preRelease: false
+    preReleaseTemplate: "alpha.{{.Commits | len}}"
+    preReleaseOverwrite: true
+    buildMetadataTemplate: ""

@@ -1,0 +1,27 @@
+# 发现设为true时，才会停止查找.editorconfig文件
+root = true
+# 通配符所有文件
+[*]
+# 编码
+charset = utf-8
+# 缩进方式 tab or space
+indent_style = tab
+# 缩进空格数
+indent_size = 4
+# 设为true表示会除去换行行首的任意空白字符
+trim_trailing_whitespace = true
+# 尾部是否插入新行
+insert_final_newline = true
+# 换行符，lf、cr和crlf
+end_of_line = lf
+# [*.cs]
+# dotnet_style_qualification_for_field = false:warning
+# dotnet_style_qualification_for_property = false:warning
+# dotnet_style_qualification_for_method = false:warning
+# dotnet_style_qualification_for_event = false:warning
+# dotnet_style_require_accessibility_modifiers = never:warning
+
+# csharp_style_expression_bodied_methods = true:silent
+# csharp_style_expression_bodied_properties = true:warning
+# csharp_style_expression_bodied_indexers = true:warning
+# csharp_style_expression_bodied_accessors = true:warning
