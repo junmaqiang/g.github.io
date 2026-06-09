@@ -1,4 +1,4 @@
-**年份**: 2025
+**年份**: 2026
 
 **版权持有者**: [jun@16860.cn]
 
@@ -81,7 +81,7 @@
 
 ```html
 <!--
-Copyright (c) 2025 [JUN]
+Copyright (c) 2026 [JUN]
 SPDX-License-Identifier: MIT
 -->
 ```

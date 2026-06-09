@@ -86,4 +86,4 @@
 
 本安全策略遵循 [协调漏洞披露](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure) 原则。我们将根据适用法律负责任地处理所有报告。
 
-*最后更新: 2025-11-15*
+*最后更新: 2026-06-10*
